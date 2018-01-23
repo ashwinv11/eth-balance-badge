@@ -1,0 +1,12 @@
+{
+  "name": "eth-balance",
+  "version": "1.0.0",
+  "description": "Shows the balance of your web3 address",
+  "main": "index.js",
+  "author": "Ashwin Vaswani",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "web3": "^0.20.4"
+  }
+}
